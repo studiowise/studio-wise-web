@@ -14,9 +14,9 @@ defineProps({
     <Head title="Welcome" />
 
     <div
-        class="relative flex items-top justify-center min-h-screen bg-cover bg-center bg-[url('/images/bg4.jpg')] sm:items-center sm:pt-0">
+        class="relative flex items-top justify-center min-h-screen bg-cover bg-center bg-[url('/images/bg4.jpg')] items-center p-5">
         <div
-            class="w-full max-w-screen-sm backdrop-blur-2xl backdrop-saturate-150 bg-white bg-opacity-40 overflow-hidden sm:rounded-2xl shadow-xl p-6">
+            class="w-full max-w-screen-sm backdrop-blur-2xl backdrop-saturate-150 bg-white bg-opacity-40 overflow-hidden rounded-2xl shadow-xl p-6">
             <div class="text-gray-700 text-center">
                 <h1 class="text-4xl mb-5">Studio Wise</h1>
                 <p>Coming soon</p>
